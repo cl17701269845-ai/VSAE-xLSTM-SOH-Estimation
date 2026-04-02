@@ -17,9 +17,9 @@ pip install -r requirements.txt
 
 ## Usage
 # Feature engineering
-matlab feature_extraction.m
+Matlab Feature_Extraction.m
 
-python MIC_analysis.ipynb
+python MIC_Analysis.ipynb
 
 python Null_Importance_SHAP.ipynb
 
