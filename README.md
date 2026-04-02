@@ -24,6 +24,3 @@ python MIC_analysis.ipynb
 python Null_Importance_SHAP.ipynb
 
 python ICEEMDAN_Dual.ipynb
-
-# Model training
-python train.py --dataset NASA --battery B0005
